@@ -1,0 +1,10 @@
+# Ignorar arquivos e dados grandes
+data/
+*.csv
+*.h5
+*.pkl
+*.json
+*.parquet
+__pycache__/
+*.ipynb_checkpoints/
+models/

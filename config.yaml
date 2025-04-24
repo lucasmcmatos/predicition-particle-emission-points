@@ -1,0 +1,16 @@
+# DATA 
+datalink: "https://www.kaggle.com/datasets/esenaj/globeparticledispersiondata"
+dataname: GlobeParticleDispersionData
+datarawdirectory: data/raw/
+datainterimdirectory: data/interim/
+dataprocesseddirectory: data/processed/
+
+# MODELS
+modelpath: models/model.pkl
+
+# RESULTS
+resultsrawpath: results/results_raw.pkl
+resultsevaluatedpath: results/results_evaluated.pkl
+
+# VISUALIZATION
+figuredirectory: reports/figures/
