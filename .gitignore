@@ -7,6 +7,5 @@ data/
 *.parquet
 __pycache__/
 *.ipynb_checkpoints/
-models/
 venv/
 src/venv/

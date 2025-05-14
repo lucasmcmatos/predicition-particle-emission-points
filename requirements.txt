@@ -6,3 +6,4 @@ seaborn
 tensorflow  
 openpyxl
 tqdm  
+jupyter
