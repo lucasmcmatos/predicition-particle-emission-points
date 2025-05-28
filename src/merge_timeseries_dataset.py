@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 RAW_DATA_PATH = "../data/raw"
 METADATA_PATH = os.path.join(RAW_DATA_PATH, "metadata.xlsx")
-OUTPUT_PATH = "../data/processed/dataset_timeseries.csv"
+OUTPUT_PATH = "../data/processed/timeseries_dataset.csv"
 WINDOW_SIZE = 30
 STRIDE = 10
 

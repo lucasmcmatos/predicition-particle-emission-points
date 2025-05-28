@@ -3,9 +3,9 @@ import pandas as pd
 from tqdm import tqdm
 
 # File paths
-METADATA_PATH = "data/raw/metadata.xlsx"
-BASE_DATA_PATH = "data/raw"
-AGG_OUTPUT_PATH = "data/processed/dataset_aggregated.csv"
+METADATA_PATH = "../data/raw/metadata.xlsx"
+BASE_DATA_PATH = "../data/raw"
+AGG_OUTPUT_PATH = "../data/processed/aggregated_dataset.csv"
 
 def load_metadata():
     """
